@@ -88,9 +88,6 @@ I'm **Ayesha Iram**, an aspiring DevOps engineer from India. I’m learning to b
   <a href="https://hashnode.com/@quaziayeshairam">
     <img src="https://img.shields.io/badge/Hashnode-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a>
-  <a href="https://instagram.com/quazi_ayesha_iram">
-    <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/ayesha-iram-76319b295/">
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ayesha Iram on LinkedIn" />
 </a>
