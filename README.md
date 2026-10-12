@@ -9,21 +9,18 @@
 
 <img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🌱 I’m learning DevOps, cloud computing, and automation through hands-on practice.
-- 🐳 I’m developing my skills in Docker, Kubernetes, and CI/CD.
-- 🎯 My goal is to start my career as a DevOps Engineer.
-- 👯 I’m interested in collaborating on beginner-friendly DevOps and open-source projects.
-- 🤝 I’m looking for guidance on troubleshooting and building reliable deployments.
+## 📌 Who am i?
+- I’m an **aspiring DevOps Engineer** passionate about building **reliable deployments** using **cloud computing, containers, and automation**.
 
 
-## 🧠 My Focus Areas
-- DevOps & Cloud Computing
-- Containerization with Docker and Kubernetes
-- CI/CD with Jenkins and Argo CD
-- Monitoring with Prometheus and Grafana
-- Incident Management with PagerDuty
-- Linux, Git & Automation
+
+ M### 🔭 What am I currently working on?
+- 🐳 **Docker & Kubernetes hands-on practice**
+- ⚙️ **CI/CD with Jenkins & Argo CD**
+- 📊 **Monitoring with Prometheus & Grafana**
+- 🚨 **Incident management with PagerDuty**
+
+---
 
 
 ## 📊 GitHub Stats & Trophies
