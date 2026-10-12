@@ -33,9 +33,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=ayeshactl&theme=radical&hide_border=true&cache_seconds=86400" alt="ayeshactl's GitHub Streak" width="49%" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+
 
 
 ## 🛠️ Languages & Tools
